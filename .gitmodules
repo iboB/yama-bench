@@ -1,0 +1,9 @@
+[submodule "yama"]
+	path = yama
+	url = https://github.com/iboB/yama.git
+[submodule "glm"]
+	path = glm
+	url = https://github.com/g-truc/glm.git
+[submodule "picobench"]
+	path = picobench
+	url = https://github.com/iboB/picobench.git
